@@ -1,4 +1,4 @@
-# Untargeted Proteomics Stats Analysis
+# DIA-NN stats analysis
 
 A one-stop statistical analysis pipeline for untargeted proteomics data. Takes DIA-NN output directly and runs a full analysis including preprocessing, differential expression testing, and visualisations.
 
